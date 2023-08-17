@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kdrake585
+- 👋 Hi, I’m Kevin
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on open-source data projects
