@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning R for data science
 - 💞️ I’m looking to collaborate on open-source data projects
 
 <!---
